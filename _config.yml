@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://SamMarkowitz.github.io
+title: Tinypress test
+tagline: Something witty
+description: Testing Tinypress blog.
+paginate: 5
