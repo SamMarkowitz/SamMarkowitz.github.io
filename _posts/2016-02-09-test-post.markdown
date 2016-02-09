@@ -5,3 +5,5 @@ layout: post
 ---
 Here is a test post
 
+![alt text](..\_images\cloudslang_logo.png)
+
