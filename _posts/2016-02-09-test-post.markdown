@@ -5,5 +5,4 @@ layout: post
 ---
 Here is a test post
 
-![alt text](..\_images\cloudslang_logo.png)
-
+![Alt text]({{ site.url }}/assets/cloudslang_logo.png)
