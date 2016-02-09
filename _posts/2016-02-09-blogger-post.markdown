@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Blogger Post
 layout: post
 ---
@@ -37,5 +37,5 @@ Keep those contribution coming!
 <blockquote align="center" class="twitter-tweet" lang="en" width="50">
 <div dir="ltr" lang="en">
 Thanks <a href="https://twitter.com/CloudSlang">@CloudSlang</a> ! I forgot my headphones today, perfect timing/gift! I'd better get those updates finished ;) <a href="https://t.co/nVKzzwev5d">pic.twitter.com/nVKzzwev5d</a></div>
-— Nigel Wright (@nigelwright_nz) <a href="https://twitter.com/nigelwright_nz/status/665989948751790080">November 15, 2015</a></blockquote>
+â€” Nigel Wright (@nigelwright_nz) <a href="https://twitter.com/nigelwright_nz/status/665989948751790080">November 15, 2015</a></blockquote>
 <script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
